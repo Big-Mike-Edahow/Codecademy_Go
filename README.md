@@ -1,1 +1,2 @@
-# Example programs from my Codecademy Go course
+# Codecademy Go
+My example programs from my Codecademy Go course
