@@ -1,2 +1,2 @@
 # Codecademy Go
-My example programs from my Codecademy Go course
+My example programs from my Codecademy Go course.
