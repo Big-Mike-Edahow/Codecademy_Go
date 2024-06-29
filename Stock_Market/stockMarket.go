@@ -41,5 +41,7 @@ func main() {
 	displayMarket(stockMarket)
 	stockMarket[0].updateStock()
 	stockMarket[1].updateStock()
+	stockMarket[2].updateStock()
+	stockMarket[3].updateStock()
 	displayMarket(stockMarket)
 }
